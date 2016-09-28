@@ -12,3 +12,7 @@ Contact: National Agency for Public Registry (NAPR) under the Ministry of Justic
 E-mail: ![email](https://www.iscgm.org/gmd/images/email/georgia.png)
 
 URL: http://www.napr.gov.ge
+
+## metadata
+The classification of Land cover layer is based on the Global Map Specifications 1.2.1. 
+
