@@ -16,3 +16,6 @@ URL: http://www.napr.gov.ge
 ## metadata
 The classification of Land cover layer is based on the Global Map Specifications 1.2.1. 
 
+## WGS84 versions
+WGS84 versions (wgs84*.shp) are prepared by the Secretariat of ISCGM by "ruby wgs84.rb | sh".
+
